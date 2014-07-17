@@ -13,4 +13,4 @@ https://vimeo.com/97223358
 * Link to third video going through the stylized Agegate unitypackage:
 https://vimeo.com/97217288
 
-If you have questions, feel free to email tyler@agecheq.com.
+If you have questions, feel free to email support@agecheq.com
